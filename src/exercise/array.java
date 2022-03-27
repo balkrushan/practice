@@ -9,6 +9,7 @@ public class array {
 	System.out.println(a.length);
 	System.out.println("balkrushan");
 	System.out.println("github");
+	System.out.println("finnaly done");
 	
 	   
         

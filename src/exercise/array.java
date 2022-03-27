@@ -11,6 +11,8 @@ public class array {
 	System.out.println("github");
 	System.out.println("finnaly done");
 	System.out.println("successfull");
+	System.out.println("anjir");
+	System.out.println("pull");
 	
 	   
         
